@@ -16,6 +16,8 @@ Requirements:
 -at least one list (ordered or unordered), at least one table, and at least one image.
 
 	There is an ordered list for "Travel" and an unordered list for "Hobbies"
+	The table is in "languages"
+	and the image is the potato logo icon in the navbar
   
 -at least one stylesheet file.
 
